@@ -16,6 +16,9 @@ into any conflicts when writing to the file.
 __After a thread finds the solution to one of the criteria, it should stop all other threads trying to solve that same 
 criteria__
 
+
+*Disclaimer: All data used in this exercise - including first name, last name, birth date, and age - is purely fictitious. Any resemblance to existing persons, real or fictional, is entirely a coincidence.*
+
 ---
 ### Criteria
 *Please do not hardcode any of the critical values in your solutions. Identify them dynamically by navigating the tree*
